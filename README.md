@@ -6,7 +6,7 @@ This is a simple multithreaded chat application built using Java Sockets. It sup
 
 Features:
 
-1.TCP-based communication
+1.TCP-based communication  
 2.Server handles multiple clients using threads
 3.Broadcasts messages from one client to all others
 4.Console-based interface
