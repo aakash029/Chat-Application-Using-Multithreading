@@ -17,8 +17,8 @@ Features:
 
 Requirements:
 
-- Java JDK 8 or higher
-- Terminal or command line interface
+1.Java JDK 8 or higher  
+2.Terminal or command line interface
 
 
 
