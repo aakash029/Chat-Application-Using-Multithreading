@@ -2,7 +2,7 @@ Chat Application Using Multithreading:
 
 This is a simple multithreaded chat application built using Java Sockets. It supports multiple clients who can chat with each other via a  server.
 
----
+
 
 Features:
 
@@ -11,7 +11,7 @@ Features:
 - Broadcasts messages from one client to all others
 - Console-based interface
 
----
+
 
 
 
@@ -20,7 +20,7 @@ Requirements:
 - Java JDK 8 or higher
 - Terminal or command line interface
 
----
+
 
 Running the application
 
